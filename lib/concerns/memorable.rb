@@ -17,3 +17,4 @@ end
 class Song
   extend Memorable
 end
+
